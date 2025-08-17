@@ -62,4 +62,4 @@ The goal of this project is to:
 - **Inline CSS**
 
 ## live 
-
+https://cv-profile.netlify.app/
